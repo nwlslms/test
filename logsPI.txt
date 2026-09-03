@@ -1,0 +1,4 @@
+2026-09-02 18:11:09 | Username: nawal1 dengan nomer: 1 telah melakukan vote. Vote: Paslon Nomor 2
+2026-09-02 18:11:16 | Username: nawal2 dengan nomer: 1 telah melakukan vote. Vote: Paslon Nomor 1
+2026-09-02 18:11:25 | Username: nawal3 dengan nomer: 1 telah melakukan vote. Vote: Paslon Nomor 2
+2026-09-02 18:11:43 | Username: nawal4 dengan nomer: 1 telah melakukan vote. Vote: Paslon Nomor 2
