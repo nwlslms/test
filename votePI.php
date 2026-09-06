@@ -28,7 +28,7 @@
             <input type="checkbox" class="checkbox" name="question" value="Paslon Nomor 1" id="question1" onclick="uncheckOtherCheckbox('question2')">
                 <div class="option_inner kandidat_1">
                     <div class="image">
-                        <img src="style/cwe1.png" alt="Paslon 1">
+                        <img src="style/cwe1.jpg" alt="Paslon 1">
                     </div>
                     <div class="name">Izza Kholydia Rohman & Rosandhita Widyani Pramesti</div>
                     <button type="button" onclick="showCandidateInfo(1)">Tentang Paslon 01</button>
@@ -38,7 +38,7 @@
                 <input type="checkbox" class="checkbox" name="question" value="Paslon Nomor 2" id="question2" onclick="uncheckOtherCheckbox('question1')">
                 <div class="option_inner kandidat_2">
                     <div class="image">
-                        <img src="style/cwe2.png" alt="Paslon 2">
+                        <img src="style/cwe2.jpg" alt="Paslon 2">
                     </div>
                     <div class="name">Tsabitha Afaf Al Fatinah & Kayla Aura Syifa Azzahra</div>
                     <button type="button" onclick="showCandidateInfo(2)">Tentang Paslon 02</button>
